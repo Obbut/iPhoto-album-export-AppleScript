@@ -24,7 +24,7 @@ SOFTWARE.
 
 log "Started exporting photos"
 
-set the destination to "/insert/your/absolute/photo/export/path/here"
+set the destination to "/insert/your/absolute/photo/export/path/here/"
 
 tell application "iPhoto"
 	set theEvents to get every album
